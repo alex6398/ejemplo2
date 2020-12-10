@@ -1,3 +1,9 @@
 fichero2 txt 
 hola perros
+<<<<<<< HEAD
 rama ejemplo
+=======
+hola negros
+hola putos
+c mamo 
+>>>>>>> master
